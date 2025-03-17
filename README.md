@@ -62,7 +62,6 @@ _**Billing Page**_
 This project is actively being developed, with potential upcoming features like:
 
 - **AI-Powered Menu Suggestions**: Recommend menu based on user preferences.
-- **Health Records Management**: Allow users to upload and manage their medical records securely.
 - **Multi-Language Support**: Provide accessibility for users speaking different languages.
 
 ---
